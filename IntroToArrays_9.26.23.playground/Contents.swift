@@ -3,6 +3,7 @@ import UIKit
 var greeting = "Hello, playground"
 
 //Part3
+var intArray: [Int]
 
 //Declare an array named "fruitName" and this array is going to hold objects of type String
 
@@ -26,3 +27,4 @@ for name in fruitNames
 
 //Part 8
 print(fruitNames[1])
+
