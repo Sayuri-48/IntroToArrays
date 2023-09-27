@@ -25,6 +25,25 @@ for name in fruitNames
     print("I like to eat " + name)
 }
 
+
 //Part 8
 print(fruitNames[1])
+
+
+//Part 9
+//14.3.1
+
+//Problem sets
+var carEx: [String]
+
+carEx = ["Rolls-Royce La Rose Noire Droptail", "Rolls-Royce Boat Tail", "Bugatti La Voiture Noire", "Rolls-Royce Sweptail", "Bugatti Centodieci", "Mercedes-Maybach Exelero", "777 Hypercar", "Pagani Codalunga"]
+
+
+for name in carEx
+{
+    print(name)
+}
+
+
+print(carEx[0])
 
