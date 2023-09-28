@@ -38,12 +38,9 @@ var carEx: [String]
 
 carEx = ["Rolls-Royce La Rose Noire Droptail", "Rolls-Royce Boat Tail", "Bugatti La Voiture Noire", "Rolls-Royce Sweptail", "Bugatti Centodieci", "Mercedes-Maybach Exelero", "777 Hypercar", "Pagani Codalunga"]
 
-
 for name in carEx
 {
-    print(name)
+    print(name + " is very expensive car")
 }
 
-
 print(carEx[0])
-
